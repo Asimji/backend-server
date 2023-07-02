@@ -1,0 +1,196 @@
+{
+    "products":[
+        {
+          "brand": "Paddington Wood",
+          "image": "https://hometown.gumlet.io/media/product/93/2463/65420/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "3 Seater Blue Color",
+          "price": 81400,
+          "type": "sofa",
+          "id": 1
+        },
+        {
+          "brand": "Claire Velvet",
+          "image": "https://hometown.gumlet.io/media/product/28/2073/73157/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Seesam Wood Beige Color",
+          "price": 75400,
+          "type": "sofa",
+          "id": 2
+        },
+        {
+          "brand": "Garcia Fabric",
+          "image": "https://hometown.gumlet.io/media/product/89/0063/31713/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Stylish & Comfy",
+          "price": 65700,
+          "type": "sofa",
+          "id": 3
+        },
+        {
+          "brand": "Catalina Fabric",
+          "image": "https://hometown.gumlet.io/media/product/44/6473/26709/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Sheesham Wood & Stylish look",
+          "price": 92000,
+          "type": "sofa",
+          "id": 4
+        },
+        {
+          "brand": "Claire Velvet",
+          "image": "https://hometown.gumlet.io/media/product/50/0653/29361/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "3 Seater left Hand Side",
+          "price": 80000,
+          "type": "sofa",
+          "id": 5
+        },
+        {
+          "brand": "Paddington Wood",
+          "image": "https://hometown.gumlet.io/media/product/25/8273/44943/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Fabric with Beige Color",
+          "price": 70000,
+          "type": "sofa",
+          "id": 6
+        },
+        {
+          "brand": "Catalina Fabric",
+          "image": "https://hometown.gumlet.io/media/product/87/2073/37980/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Stylish & Comfy with Blue Color",
+          "price": 78000,
+          "type": "sofa",
+          "id": 7
+        },
+        {
+          "brand": "Garcia Fabric",
+          "image": "https://hometown.gumlet.io/media/product/89/0063/31713/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "2 Seater with Pillow Design",
+          "price": 66000,
+          "type": "sofa",
+          "id": 8
+        },
+        {
+          "brand": "Antwerp Bed",
+          "image": "https://hometown.gumlet.io/media/product/63/1073/79527/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Queen size Bed",
+          "price": 32000,
+          "type": "bed",
+          "id": 9
+        },
+        {
+          "brand": "Minerva Bed",
+          "image": "https://hometown.gumlet.io/media/product/59/1273/75699/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Seesam Quality Bed",
+          "price": 44000,
+          "type": "bed",
+          "id": 10
+        },
+        {
+          "brand": "Edwina Bed",
+          "image": "https://hometown.gumlet.io/media/product/62/0153/42831/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Stylish and Comfort",
+          "price": 30000,
+          "type": "bed",
+          "id": 11
+        },
+        {
+          "brand": "Astra Bed",
+          "image": "https://hometown.gumlet.io/media/product/50/2153/70258/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Strawberry Color & Style",
+          "price": 45000,
+          "type": "bed",
+          "id": 12
+        },
+        {
+          "brand": "Minerva Bed",
+          "image": "https://hometown.gumlet.io/media/product/29/2553/93695/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Comfortable & Stability",
+          "price": 80000,
+          "type": "bed",
+          "id": 13
+        },
+        {
+          "brand": "Antwerp Bed",
+          "image": "https://hometown.gumlet.io/media/product/43/8153/54285/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "King Size Bed",
+          "price": 96000,
+          "type": "bed",
+          "id": 14
+        },
+        {
+          "brand": "Astra Bed",
+          "image": "https://hometown.gumlet.io/media/product/01/5763/52147/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Seesam Quality & Stylish",
+          "price": 33000,
+          "type": "bed",
+          "id": 15
+        },
+        {
+          "brand": "Edwina Bed",
+          "image": "https://hometown.gumlet.io/media/product/25/2153/31804/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Halloween Style & Comfy",
+          "price": 43000,
+          "type": "bed",
+          "id": 16
+        },
+        {
+          "brand": "Patrona Chair",
+          "image": "https://hometown.gumlet.io/media/product/31/1673/43026/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Fully Leathered Design",
+          "price": 13000,
+          "type": "chair",
+          "id": 17
+        },
+        {
+          "brand": "Zinnia Chair",
+          "image": "https://hometown.gumlet.io/media/product/54/7373/76565/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Synthetic Chair",
+          "price": 5000,
+          "type": "chair",
+          "id": 18
+        },
+        {
+          "brand": "Jane Velvet Chair",
+          "image": "https://hometown.gumlet.io/media/product/63/1373/38726/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Comfy & Stylish",
+          "price": 15000,
+          "type": "chair",
+          "id": 19
+        },
+        {
+          "brand": "Rocking Chair",
+          "image": "https://hometown.gumlet.io/media/product/85/3453/94184/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Stable & Strong",
+          "price": 25000,
+          "type": "chair",
+          "id": 20
+        },
+        {
+          "brand": "Eden Marble",
+          "image": "https://hometown.gumlet.io/media/product/48/5253/48653/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "6 Seater Dining Set",
+          "price": 25000,
+          "type": "dining",
+          "id": 21
+        },
+        {
+          "brand": "Henry Marble",
+          "image": "https://hometown.gumlet.io/media/product/44/8673/44227/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Seesham Quality & Stylish",
+          "price": 53000,
+          "type": "dining",
+          "id": 22
+        },
+        {
+          "brand": "Oswald Marble",
+          "image": "https://hometown.gumlet.io/media/product/74/8673/48339/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "White 4 Seater Dining Set",
+          "price": 44000,
+          "type": "dining",
+          "id": 23
+        },
+        {
+          "brand": "Astrois Solidwood",
+          "image": "https://hometown.gumlet.io/media/product/03/9453/94498/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+          "description": "Classic & Stylish",
+          "price": 65000,
+          "type": "dining",
+          "id": 24
+        }
+      ]
+}
